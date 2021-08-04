@@ -1,5 +1,5 @@
 ### Olá, eu sou a Zélia! 👋
-
+👨‍🎓 Cursando: Bacharelado em Sistemas De Informação - IFNMG;
 <div>
   <a href="https://github.com/ZeliaNFT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeliaNFT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
